@@ -1,0 +1,10 @@
+[
+  { "id": 0, "name": "Servidor-SP", "pos": [2, 8] },
+  { "id": 1, "name": "Servidor-RJ", "pos": [4, 6] },
+  { "id": 2, "name": "Servidor-MG", "pos": [1, 5] },
+  { "id": 3, "name": "Servidor-BA", "pos": [6, 4] },
+  { "id": 4, "name": "Servidor-RS", "pos": [3, 2] },
+  { "id": 5, "name": "Servidor-PR", "pos": [5, 3] },
+  { "id": 6, "name": "Servidor-GO", "pos": [7, 7] }
+]
+
