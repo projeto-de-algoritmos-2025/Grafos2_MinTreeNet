@@ -8,7 +8,8 @@
   { "id": 6, "name": "Servidor-GO", "pos": [9, 5] },
   { "id": 7, "name": "Servidor-DF", "pos": [9, 4] },
   { "id": 8, "name": "Servidor-RO", "pos": [5, 6] },
-  { "id": 9, "name": "Servidor-AM", "pos": [5, 8] }
+  { "id": 9, "name": "Servidor-AM", "pos": [5, 8] },
+  { "id": 10, "name": "Servidor-CE", "pos": [12, 8] }
   
   
 ]
