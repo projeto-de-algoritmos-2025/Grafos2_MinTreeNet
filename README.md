@@ -44,3 +44,4 @@ Dupla responsável:
 - [Maurício Ferreira](https://github.com/mauricio_araujoo)  
 
 ## Vídeo de apresentação
+[Link para o vídeo](https://www.youtube.com/watch?v=hENF3_Km_vA)
